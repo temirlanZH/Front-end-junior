@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming in the field Web-Development.
 - 🌱 I’m currently learning Html5, Css3, Javascript, React.js, JQuery, Bootstrap.  
 - 💞️ I’m looking to collaborate on Morrison_code.kz
-- 📫 How to reach me in LinkedIn?
+- 📫 How to reach me in LinkedIn? 
      Front-End Developer Skills Include:
      • Languages: JavaScript, HTML5, CSS3.
      • Frameworks: React.js, Bootstrap, JQuery.
