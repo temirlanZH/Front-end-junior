@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Html5, Css3, Javascript, React.js, JQuery, Bootstrap.  
 - 💞️ I’m looking to collaborate on Morrison_code.kz
 - 📫 How to reach me in LinkedIn?
-     Front-End Developer With Over 3 Months Experience. Including Requirements Collection, Analysis, Design, Development, Testing, Deployment And Support Of Desktop, Web Mobile        Applications, Figma Development.
      Front-End Developer Skills Include:
      • Languages: JavaScript, HTML5, CSS3.
      • Frameworks: React.js, Bootstrap, JQuery.
